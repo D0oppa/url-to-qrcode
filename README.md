@@ -1,6 +1,5 @@
 # URL to QR Code Converter
 
-![QR Code](demo.png)
 
 ## Description
 
@@ -17,6 +16,11 @@ The **URL to QR Code Converter** is a simple web application that allows users t
 - **React:** For building the user interface.
 - **JavaScript:** The programming language used for development.
 - **react-qr-code:** A React component to generate QR codes.
+
+## Demo
+
+Check out the live demo: [URL to QR Code Converter](https://url-to-qrcode.vercel.app/)
+![QR Code](demo.png)
 
 ## Getting Started
 
