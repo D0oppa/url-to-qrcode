@@ -1,6 +1,6 @@
 # URL to QR Code Converter
 
-![QR Code](public\demo.png)
+![QR Code](demo.png)
 
 ## Description
 
